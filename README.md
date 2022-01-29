@@ -1,7 +1,7 @@
 # hello-world
 Hello world project
 
-## Can we do PlanUML?
+## Can we do PlantUML?
 
 ```plantuml
 @startuml
