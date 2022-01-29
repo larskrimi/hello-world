@@ -1,3 +1,4 @@
+![pylint workflow](https://github.com/larskrimi/hello-world/actions/workflows/pylint.yml/badge.svg)
 # hello-world
 Hello world project
 
