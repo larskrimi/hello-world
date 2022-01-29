@@ -4,4 +4,4 @@ Hello world project
 
 ## Can we do PlantUML?
 
-![component diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/larskrimi/hello-world/main/example.iuml)
+![component diagram](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/larskrimi/hello-world/main/uml/example.iuml)
