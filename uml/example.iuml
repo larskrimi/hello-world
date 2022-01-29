@@ -1,13 +1,15 @@
 @startuml
+@startuml
 skinparam {
-    ComponentBorderThickness<<active>> 3
+    ObjectBorderThickness<<active>> 3
 }
 hide stereotype
 
-[CompA] as ca <<active>>
-[CompB] as cb
-[CompC] as cc
+object "<u>:ObjectA" as oa <<active>>
+object "<u>:ObjectB" as ob
+object "<u>:ObjectC" as oc
 
-ca -- cb : > A1: sendConfig
-cb -r- cc : > A2: initializeStuff
+oa -- ob : > A1: sendConfig
+ob -r- oc : > A2: initializeStuff
+@enduml
 @enduml
